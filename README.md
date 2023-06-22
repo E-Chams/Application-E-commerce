@@ -1,10 +1,9 @@
 # E commerce-django
 site de ecommerce avec django
 
-![alt text](https://donaldprogrammeur.com/wp-content/uploads/2022/04/ecom1.png)
-![alt text](https://donaldprogrammeur.com/wp-content/uploads/2022/04/ecom4.png)
-![alt text](https://donaldprogrammeur.com/wp-content/uploads/2022/04/ecom2.png)
-![alt text](https://donaldprogrammeur.com/wp-content/uploads/2022/04/ecom.png)
+![Alt text](C:\Users\Lenovo tactil\Desktop\ecommerce-django-main\static\ecom\images\1.png)
+![Alt text](C:\Users\Lenovo tactil\Desktop\ecommerce-django-main\static\ecom\images\2.png)
+![Alt text](C:\Users\Lenovo tactil\Desktop\ecommerce-django-main\static\ecom\images\3.png)
 
 
 # Requirements 
