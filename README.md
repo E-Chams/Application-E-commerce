@@ -1,9 +1,10 @@
 # E commerce-django
 site de ecommerce avec django
 
-![Alt text](C:\Users\Lenovo tactil\Desktop\ecommerce-django-main\static\ecom\images\1.png)
-![Alt text](C:\Users\Lenovo tactil\Desktop\ecommerce-django-main\static\ecom\images\2.png)
-![Alt text](C:\Users\Lenovo tactil\Desktop\ecommerce-django-main\static\ecom\images\3.png)
+
+![1](https://github.com/E-Chams/Application-E-commerce/assets/119046986/6bec890c-709a-40c9-a78a-4ac8cbfb5853)
+![2](https://github.com/E-Chams/Application-E-commerce/assets/119046986/46ad2280-ce40-4b62-ad22-ea9ef12d8113)
+![3](https://github.com/E-Chams/Application-E-commerce/assets/119046986/daa0ad87-87fe-41e6-a620-2834461a2998)
 
 
 # Requirements 
